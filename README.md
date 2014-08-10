@@ -1,0 +1,1 @@
+Guitar tabs, etc. for songs that I've written and other people's songs that I like... either because I am too lazy to put them up on Ultimate-Guitar, or because I got them elsewhere (in which case, attribution is given).
