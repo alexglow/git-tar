@@ -1,3 +1,13 @@
+This song is about the Doves of Planet Labs (https://www.planet.com) - small satellites that are brought into
+low-earth orbit, then released to circle the Earth sixteen times a day, powered by "wings" of solar panels. They
+will eventually image the Earth once per day, enough observe changes in the environment and large human movements.
+
+It includes bits of a quotation from Yuri Gagarin:
+Облетев Землю [в корабле-спутнике], я увидел, как прекрасна наша планета.
+[Люди,] будем хранить и приумножать [эту красоту, а не разрушать] её!
+"orbiting the earth [in my Sputnik ship], I saw how beautiful our planet is.
+[Everyone,] Let us preserve and increase [that beauty]"
+
                      C
 you sent us spinning up
             Am
@@ -44,9 +54,3 @@ falling down
 
 ...burning up...
 ...you're waking up
-
-background from yuri gagarin:
-oblyetev' zemlyu, uvidel kak prekrasna nasha planeta
-budem xranit' y priumnozhat' yeyo
-"orbiting the earth [in my Sputnik ship], I saw how beautiful our planet is.
-[Everyone,] Let us preserve and increase [that beauty]"
