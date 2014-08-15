@@ -5,26 +5,26 @@ low-earth orbit, then released to circle the Earth sixteen times a day, powered 
 will eventually image the Earth once per day, enough observe changes in the environment and large human movements.
 Each flock stays up for a while, then burns up on re-entry, leaving no trace.
 
-It includes bits of a quotation from Yuri Gagarin:
-Облетев Землю [в корабле-спутнике], я увидел, как прекрасна наша планета.
-[Люди,] будем хранить и приумножать [эту красоту, а не разрушать] её!
-"orbiting the earth [in my Sputnik ship], I saw how beautiful our planet is.
-[Everyone,] Let us preserve and increase [that beauty]"
+It includes a slightly modified quotation from Yuri Gagarin:
+"Облетев Землю, увидел, как прекрасна наша планета. Будем хранить красоту, и приумножать её!"
+-- Orbiting the earth, I saw how beautiful our planet is. Let us preserve that beauty and foster it!
+
+Capo 4
 
                      C
 you sent us spinning up
             Am
 hitchhiking to the sky
   Em                 F
-a cloud of eyes that gaze at our makers
+a cloud of eyes that talk to our makers
 
    C                      F
 on wings that breathe the light of day
      G                  G7
 four hundred kilometers up -- our computers
-
          C
 spinning up
+
            Am
 weathering solar storms
    Em                 F
@@ -32,8 +32,8 @@ to trace the pulse of forests and nations
 
            C                    E
 'cause the world's too big when you're on the ground
-G                             G7
-we'll be your conscience that runs on electrons
+G                         G7
+watching the watchers, we run on electrons
          C
 spinning up
 
